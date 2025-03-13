@@ -1,1 +1,2 @@
 <?php
+require 'names.php';

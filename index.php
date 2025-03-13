@@ -1,4 +1,4 @@
 <?php
 $title = "PHP - Web Site";
-echo "Hello World!sdad + asdjasd + fetch yeni";
+echo "Hello World!sdad + asdjasd + fetch yeni + yepyeni";
 echo $title;
